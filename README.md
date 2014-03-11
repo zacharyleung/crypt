@@ -3,8 +3,8 @@ Crypt
 
 # About
 
-Crypt is a program for classical cryptography that is implemented
-in the Java programming language.
+A program that implements classical cryptography algorithms.
+The real purpose of this program is as a simple example to illustrate how to make computer code available for anyone to download and use.
 
 # Installation
 
@@ -57,3 +57,4 @@ Finally, to use the cipher to encrypt a plaintext,
 run in a terminal
 
     java Crypt PigLatinCipher <input file>
+
